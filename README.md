@@ -6,7 +6,7 @@ Determined in everything I do, I am a web developer who plans to be a fullstack,
 ## Skills and Experience
 - ⚛ REACT, NODEJS
 - 💻 HTML, CSS, JS, TS
-- 💻 Figma
+- 💻 FIGMA
 
 
 
