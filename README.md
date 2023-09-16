@@ -1,16 +1,13 @@
-### Hi there 👋
+![I am Web Developper planning to be a fullstack](https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-<!--
-**trab-ml/trab-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bernard Traoré
+Determined in everything I do, I am a web developer who plans to be a fullstack, I really enjoy designing and developing web applications offering an optimal user experience (useful, usable, enjoyble and equitable) with React, JS, HTML, CSS, SASS or even TAILWIND CSS, BOOTSTRAP.
 
-Here are some ideas to get you started:
+## Skills and Experience
+- ⚛ REACT, NODEJS
+- 💻 HTML, CSS, JS
+- 💻 Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
