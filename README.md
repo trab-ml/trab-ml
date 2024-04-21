@@ -1,13 +1,13 @@
-![I am Web Developper planning to be a fullstack](https://github.com/trab-ml/trab-ml/blob/main/web-dev.jpeg)
+![Aspiring Software Engineer](https://github.com/trab-ml/trab-ml/blob/main/web-dev.jpeg)
 
 # Bernard TRAORE
-Determined in everything I do, I am a web developer who plans to be a fullstack, I really enjoy designing and developing web applications offering an optimal user experience (useful, usable, enjoyble and equitable) with React, JS, HTML, CSS, SASS or even TAILWIND CSS, BOOTSTRAP.
+Aim to become a Software Engineer, i really enjoy designing and developing web applications offering an optimal user experience (useful, usable, enjoyble and equitable).
 
-## Skills and Experience
-- ⚛ REACT, NODEJS
-- 💻 HTML, CSS, JS, TS
-- 💻 FIGMA
-
-
-
-
+## Tech Stack
+- Git / Github / Gitlab
+- SQL, Sqlite3, MySql, PostgreSQL, MongoDB
+- Java / Spring
+- Nest.js
+- React, Node.js
+- HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript 
+- Figma...
