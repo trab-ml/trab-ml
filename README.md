@@ -1,7 +1,7 @@
 ![Aspiring Software Engineer](https://github.com/trab-ml/trab-ml/blob/main/web-dev.jpeg)
 
 # Bernard TRAORE
-Aim to become a Software Engineer, i really enjoy designing and developing web applications offering an optimal user experience (useful, usable, enjoyable and equitable).
+As artist, i really enjoy thinking and developing web  applications offering an optimal user experience (useful, usable, enjoyable and equitable).
 
 ## Tech Stack
 - Git / Github / Gitlab
