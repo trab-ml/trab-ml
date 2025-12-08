@@ -53,7 +53,6 @@ As artist, i really enjoy thinking and developing web  applications offering an 
 
 <img align="left" alt="IntelliJ" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/intellij/intellij-original.svg" />
 <img align="left" alt="vscode" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="vscode" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original-wordmark.svg" />
 
 <img align="left" alt="Junit5" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/junit/junit-original-wordmark.svg" />
 
