@@ -33,7 +33,6 @@ As artist, i really enjoy thinking and developing web  applications offering an 
 
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original-wordmark.svg" />
 
-<img align="left" alt="SQL" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="SQLite" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sqlite/sqlite-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" />
