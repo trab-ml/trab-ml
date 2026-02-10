@@ -1,6 +1,6 @@
 ![Aspiring Software Engineer](assets/linkedin-banner.jpg)
 
-# Bernard TRAORE
+# Software Engineer
 As artist, i really enjoy thinking and developing web  applications offering an optimal user experience (useful, usable, enjoyable and equitable).
 
 ## Languages & Tools
