@@ -1,4 +1,4 @@
-![Aspiring Software Engineer](assets/self-made-banner-black-bg.jpg)
+![Aspiring Software Engineer](assets/self-made-banner-black-bg.png)
 
 # Software Engineer
 As artist, i really enjoy thinking and developing web  applications offering an optimal user experience (useful, usable, enjoyable and equitable).
